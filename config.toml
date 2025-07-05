@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#4CAF50"               # Vibrant green for accents
+backgroundColor = "#000000"            # Pure black background
+secondaryBackgroundColor = "#1A1A1A"   # Very dark grey for sidebar and widgets
+textColor = "#E0E0E0"                  # Light grey for readable text
+font = "sans serif"                    # Clean default sans-serif font
